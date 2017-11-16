@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.7.20)
 # Database: coni_db
-# Generation Time: 2017-11-16 17:28:50 +0000
+# Generation Time: 2017-11-16 18:44:36 +0000
 # ************************************************************
 
 
@@ -20,12 +20,10 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 
-# Dump of table subjects
+# Dump of table university_subjects
 # ------------------------------------------------------------
 
-DROP TABLE IF EXISTS `subjects`;
-
-CREATE TABLE `subjects` (
+CREATE TABLE `university_subjects` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `university` char(100) DEFAULT NULL,
   `overall` float DEFAULT NULL,
@@ -37,10 +35,10 @@ CREATE TABLE `subjects` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
-LOCK TABLES `subjects` WRITE;
-/*!40000 ALTER TABLE `subjects` DISABLE KEYS */;
+LOCK TABLES `university_subjects` WRITE;
+/*!40000 ALTER TABLE `university_subjects` DISABLE KEYS */;
 
-INSERT INTO `subjects` (`id`, `university`, `overall`, `arts`, `eng`, `life_sci`, `natural`, `social`)
+INSERT INTO `university_subjects` (`id`, `university`, `overall`, `arts`, `eng`, `life_sci`, `natural`, `social`)
 VALUES
 	(1,'Massachusetts Institute of Technology (MIT)',100,86.1,96.9,94,97.4,91.7),
 	(2,'Stanford University',98.7,90.6,95.6,92.6,96,92.2),
@@ -243,7 +241,7 @@ VALUES
 	(199,'Vrije Universiteit Amsterdam',46.8,65.1,NULL,70.6,NULL,65.8),
 	(200,'Universidad de Chile',46.7,67.8,NULL,NULL,NULL,67.4);
 
-/*!40000 ALTER TABLE `subjects` ENABLE KEYS */;
+/*!40000 ALTER TABLE `university_subjects` ENABLE KEYS */;
 UNLOCK TABLES;
 
 

@@ -1,0 +1,201 @@
+id,university,latitude,longitude,country,country_code,continent,continent_code
+1,Massachusetts Institute of Technology (MIT),42.3583961,-71.09567788,United States of America,us,North America,na
+2,Stanford University,37.431089,-122.1693009,United States of America,us,North America,na
+3,Harvard University,42.36782045,-71.12666653,United States of America,us,North America,na
+4,University of Cambridge,52.20337465,0.119958105,United Kingdom,gb,Europe,eu
+5,California Institute of Technology (Caltech),34.13710185,-118.1252749,United States of America,us,North America,na
+6,University of Oxford,51.7575707,-1.254973304,United Kingdom,gb,Europe,eu
+7,UCL (University College London),51.5243719,-0.133699,United Kingdom,gb,Europe,eu
+8,ETH Zurich - Swiss Federal Institute of Technology,47.3764534,8.547709315,Switzerland,ch,Europe,eu
+9,Imperial College London,51.49879595,-0.1769223087,United Kingdom,gb,Europe,eu
+10,University of Chicago,41.78468745,-87.60074933,United States of America,us,North America,na
+11,Princeton University,40.34829285,-74.66308325,United States of America,us,North America,na
+12,National University of Singapore (NUS),1.2962018,103.7768994,Singapore,sg,Asia,as
+13,"Nanyang Technological University, Singapore (NTU)",1.3483099,103.680946,Singapore,sg,Asia,as
+14,Ecole Polytechnique Fédérale de Lausanne (EPFL),46.5186594,6.566561505,Switzerland,ch,Europe,eu
+15,Yale University,41.25713055,-72.9896696,United States of America,us,North America,na
+16,Cornell University,42.4489498,-76.4746832,United States of America,us,North America,na
+17,Johns Hopkins University,44.4947702,11.3558967,Italy,it,Europe,eu
+18,University of Pennsylvania,39.9492344,-75.19198985,United States of America,us,North America,na
+19,The University of Edinburgh,55.9462364,-3.190622742,United Kingdom,gb,Europe,eu
+20,Columbia University,40.814856,-73.96101624,United States of America,us,North America,na
+21,King's College London,51.4697988,-0.08933064891,United Kingdom,gb,Europe,eu
+22,The Australian National University,-37.81354365,144.9717917,Australia,au,Oceania,oc
+23,University of Michigan,42.2942077,-83.71003852,United States of America,us,North America,na
+24,Tsinghua University,40.00229045,116.3209891,China,cn,Asia,as
+25,Duke University,36.0001557,-78.94422972,United States of America,us,North America,na
+26,Northwestern University,42.0551164,-87.67581113,United States of America,us,North America,na
+27,The University of Hong Kong,22.28267345,114.1385492,China,cn,Asia,as
+28,"University of California, Berkeley (UCB)",37.8719034,-122.2607286,United States of America,us,North America,na
+29,The University of Manchester,53.4659671,-2.232973772,United Kingdom,gb,Europe,eu
+30,McGill University,45.50691775,-73.57911626,Canada,ca,North America,na
+31,"University of California, Los Angeles (UCLA)",34.0689254,-118.4473698,United States of America,us,North America,na
+32,University of Toronto,43.66333345,-79.39769975,Canada,ca,North America,na
+33,"Ecole normale supérieure, Paris",48.84170715,2.344792313,France,fr,Europe,eu
+34,The University of Tokyo,35.9020448,139.9362201,Japan,jp,Asia,as
+35,Seoul National University,37.4581284,126.952134,South Korea,kr,Asia,as
+36,The Hong Kong University of Science and Technology,22.3386304,114.2620337,China,cn,Asia,as
+37,Kyoto University,35.0274996,135.7815451,Japan,jp,Asia,as
+38,London School of Economics and Political Science (LSE),51.5138065,-0.1166688,United Kingdom,gb,Europe,eu
+39,Peking University,39.9920267,116.3067065,China,cn,Asia,as
+40,"University of California, San Diego (UCSD)",32.817306,-117.2700091,United States of America,us,North America,na
+41,University of Bristol,51.4576128,-2.601620651,United Kingdom,gb,Europe,eu
+42,The University of Melbourne,-37.8251221,144.9675824,Australia,au,Oceania,oc
+43,Fudan University,31.30104395,121.500455,China,cn,Asia,as
+44,The Chinese University of Hong Kong (CUHK),22.42057865,114.2078605,China,cn,Asia,as
+45,University of British Columbia,49.25219815,-123.2314565,Canada,ca,North America,na
+46,The University of Sydney,-33.88902715,151.1894207,Australia,au,Oceania,oc
+47,New York University (NYU),40.7292641,-73.99626827,United States of America,us,North America,na
+48,KAIST - Korea Advanced Institute of Science & Technology,36.3693964,127.3618362,South Korea,kr,Asia,as
+49,The University of New South Wales (UNSW Sydney),-33.9175596,151.2312401,Australia,au,Oceania,oc
+50,Brown University,41.8268682,-71.40123146,United States of America,us,North America,na
+51,The University of Queensland,-27.49741805,153.0131626,Australia,au,Oceania,oc
+52,The University of Warwick,52.3793131,-1.5604252,United Kingdom,gb,Europe,eu
+53,University of Wisconsin-Madison,43.07996765,-89.4307652,United States of America,us,North America,na
+54,Ecole Polytechnique,48.71408515,2.213080878,France,fr,Europe,eu
+55,City University of Hong Kong,22.34000115,114.1697029,China,cn,Asia,as
+56,Tokyo Institute of Technology,35.5167538,139.4834225,Japan,jp,Asia,as
+57,University of Amsterdam,52.3553655,4.9501644,The Netherlands,nl,Europe,eu
+58,Carnegie Mellon University,37.4102193,-122.0596549,United States of America,us,North America,na
+59,University of Washington,47.6543238,-122.3080089,United States of America,us,North America,na
+60,Technical University of Munich,1.3078539,103.7776795,Singapore,sg,Asia,as
+61,Shanghai Jiao Tong University,31.20081505,121.4284068,China,cn,Asia,as
+62,Delft University of Technology,51.99882735,4.373960368,The Netherlands,nl,Europe,eu
+63,Osaka University,34.5935472,135.5038278,Japan,jp,Asia,as
+64,University of Glasgow,55.87230815,-4.289225443,United Kingdom,gb,Europe,eu
+65,Monash University,-37.78397455,144.9586743,Australia,au,Oceania,oc
+66,University of Illinois at Urbana-Champaign,40.1006938,-88.23134961,United States of America,us,North America,na
+67,University of Texas at Austin,30.284151,-97.73195598,United States of America,us,North America,na
+68,Ludwig-Maximilians-Universität München,48.14814005,11.57285596,Germany,de,Europe,eu
+69,National Taiwan University (NTU),25.0156507,121.5367573,Taiwan,tw,Asia,as
+70,University of Copenhagen,55.68021235,12.57226038,Denmark,dk,Europe,eu
+71,Georgia Institute of Technology,33.776033,-84.39884086,United States of America,us,North America,na
+72,Ruprecht-Karls-Universität Heidelberg,49.4167814,8.6691206,Germany,de,Europe,eu
+73,Lund University,55.7126768,13.21074292,Sweden,se,Europe,eu
+74,Durham University,54.7634498,-1.5765124,United Kingdom,gb,Europe,eu
+75,Tohoku University,38.2530945,140.8736593,Japan,jp,Asia,as
+76,The University of Nottingham,52.9512923,-1.185050625,United Kingdom,gb,Europe,eu
+77,University of St Andrews,56.3411984,-2.7930938,United Kingdom,gb,Europe,eu
+78,"University of North Carolina, Chapel Hill",35.9058101,-79.04812415,United States of America,us,North America,na
+79,KU Leuven,50.86318485,4.6739897,Belgium,be,Europe,eu
+80,University of Zurich,47.3743257,8.5487925,Switzerland,ch,Europe,eu
+81,The University of Auckland,-36.8500711,174.7705586,New Zealand,nz,Oceania,oc
+82,University of Birmingham,52.45044325,-1.931961341,United Kingdom,gb,Europe,eu
+83,Pohang University of Science And Technology (POSTECH),36.0172898,129.323921,South Korea,kr,Asia,as
+84,The University of Sheffield,53.3815248,-1.480681425,United Kingdom,gb,Europe,eu
+85,Universidad de Buenos Aires (UBA),-34.5708282,-58.4633953,Argentina,ar,South America,sa
+86,"University of California, Davis",38.52247515,-121.7513927,United States of America,us,North America,na
+87,University of Southampton,50.92021625,-1.40654195,United Kingdom,gb,Europe,eu
+88,The Ohio State University,40.0045016,-83.02853385,United States of America,us,North America,na
+89,Boston University,42.35041405,-71.10167087,United States of America,us,North America,na
+90,Rice University,29.71679145,-95.40478113,United States of America,us,North America,na
+91,University of Helsinki,60.17103775,24.94915065,Finland,fi,Europe,eu
+92,Purdue University,40.4319722,-86.92389368,United States of America,us,North America,na
+93,University of Leeds,53.80387185,-1.55245712,United Kingdom,gb,Europe,eu
+94,University of Alberta,53.5243669,-113.522798,Canada,ca,North America,na
+95,Pennsylvania State University,39.94560975,-79.65940096,United States of America,us,North America,na
+96,University of Geneva,46.2120229,6.1055382,Switzerland,ch,Europe,eu
+97,KTH Royal Institute of Technology,59.34986645,18.07063213,Sweden,se,Europe,eu
+98,Uppsala University,59.81692585,17.66200126,Sweden,se,Europe,eu
+99,Korea University,37.5891545,127.0326718,South Korea,kr,Asia,as
+100,"Trinity College Dublin, The University of Dublin",53.345701,-6.2581187,Ireland,ie,Europe,eu
+101,"KIT, Karlsruhe Institute of Technology",49.0119234,8.4148416,Germany,de,Europe,eu
+102,Leiden University,52.15721025,4.485120774,The Netherlands,nl,Europe,eu
+103,The University of Western Australia,-35.0276726,117.8874394,Australia,au,Oceania,oc
+104,Utrecht University,52.08340265,5.148284942,The Netherlands,nl,Europe,eu
+105,University of Science and Technology of China,31.83907195,117.2642075,China,cn,Asia,as
+106,Sungkyunkwan University (SKKU),37.5882312,126.9914173,South Korea,kr,Asia,as
+107,Washington University in St. Louis,38.6488148,-90.30654134,United States of America,us,North America,na
+108,Lomonosov Moscow State University,55.70229715,37.53179777,Russia,ru,Europe,eu
+109,Technical University of Denmark,55.7854,12.52019888,Denmark,dk,Europe,eu
+110,Zhejiang University,30.19331415,120.1193082,China,cn,Asia,as
+111,The Hong Kong Polytechnic University,22.304572,114.1797629,China,cn,Asia,as
+112,Yonsei University,37.246804,127.076814,South Korea,kr,Asia,as
+113,University of Oslo,59.9412772,10.720663,Norway,no,Europe,eu
+114,University of Groningen,53.21967825,6.562514822,The Netherlands,nl,Europe,eu
+115,Nanjing University,32.0565957,118.7740883,China,cn,Asia,as
+116,Nagoya University,43.53750985,143.6076823,Japan,jp,Asia,as
+117,Aarhus University,56.1672052,10.20260887,Denmark,dk,Europe,eu
+118,"University of California, Santa Barbara (UCSB)",34.4139673,-119.8511357,United States of America,us,North America,na
+119,Wageningen University,51.98527485,5.663705052,The Netherlands,nl,Europe,eu
+120,Universidade de São Paulo,-23.5855814,-46.60971569,Brazil,br,South America,sa
+121,Humboldt-Universität zu Berlin,52.51875095,13.39355165,Germany,de,Europe,eu
+122,Eindhoven University of Technology,51.4486602,5.490399566,The Netherlands,nl,Europe,eu
+123,Freie Universitaet Berlin,52.4474058,13.28110558,Germany,de,Europe,eu
+124,Queen Mary University of London,51.5247272,-0.03931034663,United Kingdom,gb,Europe,eu
+125,The University of Adelaide,-34.9189226,138.6042367,Australia,au,Oceania,oc
+126,Université de Montréal,45.503538,-73.617682,Canada,ca,North America,na
+127,University of York,53.94540365,-1.031388783,United Kingdom,gb,Europe,eu
+128,Universidad Nacional Autónoma de México (UNAM),19.3361558,-99.1872207,Mexico,mx,North America,na
+129,Lancaster University,54.0088818,-2.787377276,United Kingdom,gb,Europe,eu
+130,Hokkaido University,43.07900775,141.3377295,Japan,jp,Asia,as
+131,Ghent University,51.0250898,3.713541706,Belgium,be,Europe,eu
+132,"University of Maryland, College Park",38.99203005,-76.9461029,United States of America,us,North America,na
+133,Universiti Malaya (UM),3.12267405,101.653561,Malaysia,my,Asia,as
+134,Aalto University,60.18558755,24.8242733,Finland,fi,Europe,eu
+135,Kyushu University,33.59914655,130.2235985,Japan,jp,Asia,as
+136,University of Southern California,34.0224149,-118.2863441,United States of America,us,North America,na
+137,University of Minnesota,44.97308605,-93.23708813,United States of America,us,North America,na
+138,University of Lausanne,37.99081515,23.73047038,Greece,gr,Europe,eu
+139,Chalmers University of Technology,57.6896523,11.9766811,Sweden,se,Europe,eu
+140,Cardiff University,51.4879961,-3.179697474,United Kingdom,gb,Europe,eu
+141,Université Pierre et Marie Curie (UPMC),48.8468997,2.357448653,France,fr,Europe,eu
+142,University of Basel,47.5612651,7.5752961,Switzerland,ch,Europe,eu
+143,University of Aberdeen,57.16408,-2.1017651,United Kingdom,gb,Europe,eu
+144,Erasmus University Rotterdam,51.9228696,4.487498569,The Netherlands,nl,Europe,eu
+145,University of Pittsburgh,40.44415295,-79.96243993,United States of America,us,North America,na
+146,RWTH Aachen University,50.7791703,6.067287329,Germany,de,Europe,eu
+147,Pontificia Universidad Católica de Chile (UC),-33.5120351,-70.7523836,Chile,cl,South America,sa
+148,The Hebrew University of Jerusalem,31.7918555,35.244723,Israel,il,Asia,as
+149,McMaster University,43.26336945,-79.91810009,Canada,ca,North America,na
+150,Emory University,33.7915703,-84.31837262,United States of America,us,North America,na
+151,National Tsing Hua University,24.79172355,120.9922071,Taiwan,tw,Asia,as
+152,University of Waterloo,43.47061295,-80.54495797,Canada,ca,North America,na
+153,Indian Institute of Science (IISc) Bangalore,13.0222347,77.56718325,India,in,Asia,as
+154,Université catholique de Louvain (UCL),50.6696909,4.6134022,Belgium,be,Europe,eu
+155,University of Vienna,48.2131302,16.36068653,Austria,at,Europe,eu
+156,"University of California, Irvine",33.6431901,-117.8401649,United States of America,us,North America,na
+157,University of Liverpool,53.40205015,-2.964095576,United Kingdom,gb,Europe,eu
+158,Dartmouth College,43.7047927,-72.2925909,United States of America,us,North America,na
+159,University of Bath,51.3791442,-2.3252332,United Kingdom,gb,Europe,eu
+160,Universitat de Barcelona,41.3868913,2.163523846,Spain,es,Europe,eu
+161,Texas A&M University,30.61179915,-96.35204475,United States of America,us,North America,na
+162,Michigan State University,42.718568,-84.47791571,United States of America,us,North America,na
+163,Albert-Ludwigs-Universitaet Freiburg,48.00886815,7.831859881,Germany,de,Europe,eu
+164,Technische Universität Berlin (TU Berlin),52.51101585,13.32695414,Germany,de,Europe,eu
+165,The University of Exeter,50.7369302,-3.536476717,United Kingdom,gb,Europe,eu
+166,CentraleSupélec,48.70814485,2.162610741,France,fr,Europe,eu
+167,Eberhard Karls Universität Tübingen,48.52650555,9.050822439,Germany,de,Europe,eu
+168,Newcastle University,54.98023235,-1.61452627,United Kingdom,gb,Europe,eu
+169,University of Otago,-45.86508895,170.5138522,New Zealand,nz,Oceania,oc
+170,University of Colorado Boulder,40.01779535,-105.2472374,United States of America,us,North America,na
+171,Hanyang University,37.5551257,127.0447098,South Korea,kr,Asia,as
+172,University of Virginia,38.0353682,-78.5035322,United States of America,us,North America,na
+173,Maastricht University,50.8451455,5.6848994,The Netherlands,nl,Europe,eu
+174,National Chiao Tung University,24.78676765,120.9972441,Taiwan,tw,Asia,as
+175,University of Reading,51.4499995,-0.9614077794,United Kingdom,gb,Europe,eu
+176,University College Dublin,53.3002031,-6.533007641,Ireland,ie,Europe,eu
+177,University of Göttingen,51.5431795,9.9272252,Germany,de,Europe,eu
+178,École Normale Supérieure de Lyon,45.7297811,4.826581922,France,fr,Europe,eu
+179,University of Bergen,60.3878612,5.3195662,Norway,no,Europe,eu
+180,University of Twente,52.2380139,6.8566761,The Netherlands,nl,Europe,eu
+181,University of Bern,46.9519546,7.438084217,Switzerland,ch,Europe,eu
+182,Vrije Universiteit Brussel (VUB),50.8222378,4.3920882,Belgium,be,Europe,eu
+183,Politecnico di Milano,45.4790288,9.232210404,Italy,it,Europe,eu
+184,Vienna University of Technology,48.19853965,16.36986168,Austria,at,Europe,eu
+185,University of Florida,29.6328784,-82.3490133,United States of America,us,North America,na
+186,Indian Institute of Technology Delhi (IITD),28.5449803,77.1904396,India,in,Asia,as
+187,University of Rochester,43.1576983,-77.58829256,United States of America,us,North America,na
+188,"University of Illinois, Chicago (UIC)",41.8704537,-87.6696741,United States of America,us,North America,na
+189,University of Sussex,50.86794365,-0.0878561276,United Kingdom,gb,Europe,eu
+190,King Fahd University of Petroleum & Minerals,26.306111,50.151944,Saudi Arabia,sa,Asia,as
+191,Radboud University,52.33396735,4.865196433,The Netherlands,nl,Europe,eu
+192,Universidade Estadual de Campinas (Unicamp),-22.8224781,-47.06425993,Brazil,br,South America,sa
+193,University of Cape Town,-33.95828745,18.45997349,South Africa,za,Africa,af
+194,University of Technology Sydney,-33.883084,151.2021577,Australia,au,Oceania,oc
+195,Queen's University Belfast,54.58435885,-5.933667877,United Kingdom,gb,Europe,eu
+196,Stockholm University,59.3644838,18.05844468,Sweden,se,Europe,eu
+197,University of Calgary,51.0784038,-114.1287077,Canada,ca,North America,na
+198,The University of Western Ontario,43.009601,-81.2759223,Canada,ca,North America,na
+199,Vrije Universiteit Amsterdam,52.33418005,4.86690055,The Netherlands,nl,Europe,eu
+200,Universidad de Chile,-23.7032111,-70.4239645,Chile,cl,South America,sa
