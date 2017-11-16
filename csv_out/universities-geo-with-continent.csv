@@ -1,4 +1,4 @@
-id,university,overall,arts and humanities,engineering and technology,life science and medicine,natural science,social science,latitude,longitude,country,country_code,continent,continent_code
+id,university,OVERALL,ARTS,ENG,LIFE SCI,NATURAL,SOCIAL science,latitude,longitude,country,country_code,continent,continent_code
 1,Massachusetts Institute of Technology (MIT),100,86.1,96.9,94,97.4,91.7,42.3583961,-71.09567788,United States of America,us,North America,na
 2,Stanford University,98.7,90.6,95.6,92.6,96,92.2,37.431089,-122.1693009,United States of America,us,North America,na
 3,Harvard University,98.3,97.5,89.4,97.8,96,96.5,42.36782045,-71.12666653,United States of America,us,North America,na
