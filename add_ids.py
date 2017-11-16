@@ -5,7 +5,7 @@ Add overall score as id for all subject csv files
 import csv
 
 def add_id_to_file(id_dict, input_file_name, output_file_name):
-    with open(input_file_name,'r') as csvinput:
+    with open(input_file_name, 'r') as csvinput:
         with open(output_file_name, 'w') as csvoutput:
             writer = csv.writer(csvoutput, lineterminator='\n')
             reader = csv.reader(csvinput)
