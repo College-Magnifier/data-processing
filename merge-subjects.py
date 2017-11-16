@@ -1,3 +1,7 @@
+"""
+Merge 5 priciple subjects ranking and overall ranking into a single csv
+"""
+
 import csv
 
 def gen_dict_from_file(file_name):
@@ -56,7 +60,7 @@ if __name__ == '__main__':
 
     merged_arr.insert(0, ['id', 'university', 'overall', 'arts and humanities', 'engineering and technology', 'life science and medicine', 'natural science', 'social science'])
 
-    output_file = open('csv/priciple-subjects.csv', 'w')
+    output_file = open('csv_out/priciple-subjects.csv', 'w')
     with output_file:
        writer = csv.writer(output_file)
        writer.writerows(merged_arr)
