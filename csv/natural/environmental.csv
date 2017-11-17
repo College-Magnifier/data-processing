@@ -1,0 +1,201 @@
+university,overall,ACADEMIC REPUTATION,CITATIONS PER PAPER,EMPLOYER REPUTATION,H-INDEX CITATIONS
+"University of California, Berkeley (UCB)",95.9,100,93.7,86.5,95.4
+Stanford University,95.7,95.4,97.4,93.3,95.4
+Massachusetts Institute of Technology (MIT),95.1,98.4,96.2,94.9,88.8
+Harvard University,94.3,96.6,94,100,88.8
+University of Oxford,94.3,96.3,93,95.1,91.9
+ETH Zurich - Swiss Federal Institute of Technology,93.6,93.2,94.2,84.4,97.4
+University of Cambridge,93.6,97.6,91.2,97.3,88
+Wageningen University,93.6,95.1,93.6,71.4,100
+Imperial College London,92.2,90.8,94.3,85.6,94.8
+National University of Singapore (NUS),92.2,95.5,93.6,84.7,88.4
+University of British Columbia,91.6,95.3,91.4,77.5,91.6
+The University of Queensland,91.2,92.3,91.8,76.6,94.5
+"University of California, Davis",89.7,92.3,92.1,63.6,93.6
+Yale University,89.7,87.3,95.5,88.3,88.4
+The University of New South Wales (UNSW Sydney),89.4,89.2,90.2,86.6,90.2
+"University of California, Los Angeles (UCLA)",89.2,90.2,94,85.5,84.3
+University of Washington,88.9,87.4,93.3,71,93.9
+Delft University of Technology,88.8,89.6,89.1,72.8,93.6
+California Institute of Technology (Caltech),88.5,89,97,78.1,83.4
+Cornell University,88.5,88,91.9,78.7,89.9
+The University of Melbourne,88.5,87.7,89.6,84.5,90.2
+Tsinghua University,88.1,84.9,88.5,84.9,94.2
+"Nanyang Technological University, Singapore (NTU)",88,81.7,100,75.3,91.3
+The Australian National University,87.9,86.6,91.8,78.1,89.9
+The University of Tokyo,87.4,94,84.9,86.7,79.5
+McGill University,86.9,85.4,92.4,78.8,87.2
+Peking University,86.7,83.7,90,87.4,88
+University of Michigan,86.6,83.6,92,74.8,90.9
+Duke University,86.5,82.6,95.7,66.2,91.6
+Princeton University,86.5,82.4,96.3,82.2,84.8
+University of Toronto,85.8,84.6,89.6,80.2,86
+University of Wisconsin-Madison,85.6,82.3,92.9,65.2,91.9
+Seoul National University,85.4,84.3,89.3,82.4,84.3
+University of Texas at Austin,85.2,80.9,91.7,73.8,90.2
+"University of California, Santa Barbara (UCSB)",85,79.1,97.1,69.1,88.8
+Ecole Polytechnique Fédérale de Lausanne (EPFL),84.9,74.5,98.2,78,90.9
+Columbia University,84.7,81.3,92.2,82.3,83.4
+Georgia Institute of Technology,84.5,80.7,93.6,74.4,85.6
+Lund University,84.5,83.4,90.4,63,89.1
+Stockholm University,84.4,82.5,93.3,50.8,91.9
+National Taiwan University (NTU),84.1,83.6,87.9,75.6,84.3
+Arizona State University,84,79.9,93.2,64.6,89.1
+Technical University of Denmark,84,77.5,93.1,62.1,94.2
+James Cook University,83.9,82,91.6,60.8,88.4
+University of Illinois at Urbana-Champaign,83.8,81.5,89.7,64.6,89.1
+Kyoto University,83.6,88.6,82.6,82,77.4
+Pennsylvania State University,83.5,78.1,91,66.7,91.3
+Texas A&M University,83.5,82.6,86,67.9,88.8
+Monash University,83.4,77.8,91.1,80.6,85.6
+UCL (University College London),83.4,81.4,89.3,75.3,83.9
+Universiti Sains Malaysia (USM),83.4,82.2,88.5,77.4,82.5
+University of Minnesota,83.4,77,91.6,68,91.6
+Aarhus University,,75.4,90,66.2,86.8
+Carnegie Mellon University,,75.3,91,69.5,74.4
+Colorado State University,,80.7,89.2,60.3,89.5
+Johns Hopkins University,,80.8,92.2,71,79
+KAIST - Korea Advanced Institute of Science & Technology,,82.6,93.3,75.5,75
+Lancaster University,,74,92.5,60.2,87.2
+Michigan State University,,77.5,90.8,62,88.4
+Oregon State University,,79.4,90.8,40.1,92.3
+Purdue University,,74.3,88.4,70.3,83.9
+RWTH Aachen University,,73.5,88.7,79.6,79
+Shanghai Jiao Tong University,,69.2,89.6,81.1,84.3
+The Hong Kong University of Science and Technology,,85.7,92.2,72.7,73.1
+The University of Adelaide,,76.9,89.3,71.5,82.5
+The University of Auckland,,80.5,84.8,83.7,74.4
+The University of Manchester,,77.6,89.1,78.8,78.5
+The University of Sheffield,,75.6,90,57.1,82
+The University of Sydney,,78.6,87.3,84.8,79.5
+The University of Western Australia,,78.6,89.8,73.9,82
+Universidad Nacional Autónoma de México (UNAM),,88.5,82.3,74,78.5
+Universidade de São Paulo,,86.5,80.9,77.5,82
+Universitat Autònoma de Barcelona,,72.6,91,59.6,84.3
+Universitat de Barcelona,,77.4,88.2,62.9,77.4
+Universiti Malaya (UM),,83.1,84.7,72.3,72.4
+University of Aberdeen,,74.3,90.2,64,83.9
+University of Alberta,,74.9,87.8,69.4,88.4
+The University of Arizona,,73.7,90.4,60.4,90.2
+University of Birmingham,,68.1,93.9,66.6,84.3
+University of Bristol,,73,94,66.1,87.6
+"University of California, Irvine",,70.6,97.1,53.9,90.9
+"University of California, San Diego (UCSD)",,78.3,94.6,70.7,81.5
+University of Colorado Boulder,,80.4,91.1,59.1,88.4
+University of Copenhagen,,80.5,90.1,59.3,86.4
+University of East Anglia (UEA),,84.1,96.4,27.2,90.9
+The University of Edinburgh,,81.5,89.4,73,83
+The University of Exeter,,75.3,92.8,59.1,88
+University of Florida,,79.4,88.7,59.5,90.2
+Ghent University,,72.9,89.2,63.8,87.6
+University of Helsinki,,81.6,87.5,56.8,83.4
+The University of Hong Kong,,82.8,88.5,75.9,81.5
+University of Leeds,,77.6,92.8,63,89.1
+"University of Maryland, College Park",,71.5,93.5,63.8,92.9
+University of Reading,,74.9,93.2,56.6,83
+University of Southampton,,75.2,90.6,62.7,83.9
+University of Waterloo,,73.2,89.3,74,83.9
+University of Zurich,,70.2,92.7,66.3,82
+Uppsala University,,78.1,91.7,42.6,88
+Utrecht University,,76.3,93.6,64.1,88.4
+Vrije Universiteit Amsterdam,,71.4,93,57.3,89.9
+Zhejiang University,,67.6,87.8,76,88.8
+Aristotle University of Thessaloniki,,69.3,86.6,54.7,80.6
+Beijing Normal University,,67.6,86.4,62.8,90.2
+Boston University,,68.3,92.6,76.3,79.5
+Chalmers University of Technology,,70,89.3,65.1,78.5
+Chulalongkorn University,,79,84.5,74.9,66.4
+Fudan University,,63.3,93.4,82.3,85.2
+University of Göttingen,,68.3,89.4,42,85.2
+Griffith University,,68.9,87.5,70.7,83
+Hanyang University,,68.5,89.1,78.9,77.9
+Hokkaido University,,74.3,84.7,72.6,76.8
+Humboldt-Universität zu Berlin,,73.4,90.1,64.6,77.4
+King's College London,,68,87.4,69.3,76.8
+Korea University,,74.1,84.8,82.3,67.2
+KTH Royal Institute of Technology,,68.4,88.7,69.3,78.5
+Macquarie University,,67.6,91.3,65.2,76.2
+Nanjing University,,64.8,88.1,69.1,88.4
+National Cheng Kung University (NCKU),,65.3,89.4,67.9,79
+Newcastle University,,70.1,88.8,64.9,82.5
+North Carolina State University,,71.5,88.3,55.5,83
+Northwestern University,,63.6,92.6,61.3,80
+The Ohio State University,,66.2,90.5,59.8,88
+Pohang University of Science And Technology (POSTECH),,68,89.4,73.7,71
+Politecnico di Milano,,73.8,86.1,78.1,75.6
+Pontificia Universidad Católica de Chile (UC),,81.8,81.9,73.2,68
+Queensland University of Technology (QUT),,64.9,90.5,72.2,77.9
+Simon Fraser University,,66.9,91.8,65.8,79
+Swedish University of Agricultural Sciences,,77.4,89.3,,88.4
+Technical University of Munich,,72.8,85.2,72.2,79
+The University of Nottingham,,71.2,89.3,54.8,75
+Tohoku University,,73.4,85.1,73.5,73.1
+Tokyo Institute of Technology,,81.1,81.5,81.2,68.8
+Universidad Autónoma de Madrid,,65,91.6,60.9,79
+Universidad de Buenos Aires (UBA),,81.8,83.8,72,69.6
+Universidade Estadual de Campinas (Unicamp),,80.6,83.8,67.4,71
+Alma Mater Studiorum - University of Bologna,,68.9,85.7,70.4,78.5
+University of Natural Resources and Applied Life Sciences Vienna,,77.9,88.7,36.1,78.5
+Université de Montpellier,,69.7,89.7,57.8,80.6
+Université de Montréal,,67.2,90,62.1,83.9
+Universiti Putra Malaysia (UPM),,77.2,79.2,71.3,75
+Universiti Teknologi Malaysia,,78.5,80.6,71.6,71.7
+University of Antwerp,,63.7,92.1,51.3,84.3
+"University of California, Riverside",,66.7,91.1,54.6,83.9
+University of Cape Town,,72,86.6,62.5,72.4
+University of Chicago,,73,84.3,77.2,69.6
+University of Guelph,,73.2,85.9,69.9,79.5
+University of Lisbon,,65.5,86,61.6,86
+University of Massachusetts Amherst,,64.3,95.2,62.9,85.2
+"University of North Carolina, Chapel Hill",,69.9,92.7,53.3,83.9
+University of Otago,,68.2,89.3,65.2,76.8
+University of Science and Technology of China,,66.8,92.8,69.3,75.6
+University of Technology Sydney,,72,88.8,75.7,76.8
+Virginia Polytechnic Institute and State University,,73.5,85.3,53.5,78.5
+Aalborg University,,66.8,87.2,59.8,73.1
+"Asian Institute of Technology, Thailand",,76.8,78.3,66.9,67.2
+Brown University,,67.2,86.1,63.2,72.4
+Cardiff University,,65.2,90.7,54.5,75.6
+Colorado School of Mines,,60.7,92.7,55.3,83.9
+Curtin University,,63,88.2,73,73.1
+Dalhousie University,,68.4,87.5,52.8,77.9
+Indian Institute of Science (IISc) Bangalore,,73.1,81.5,60.4,72.4
+Indian Institute of Technology Bombay (IITB),,76.3,78.2,66.7,63.8
+Iowa State University,,63.1,89,52.7,80
+Kyushu University,,74.5,80.6,69.1,70.3
+Lomonosov Moscow State University,,78.1,74.2,82,64.7
+Nagoya University,,72.2,83.7,66.2,68
+Norwegian University of Science And Technology,,66.6,89,62.2,77.4
+Osaka University,,74.3,82.5,75.1,64.7
+Queen's University at Kingston,,62,87.6,70.4,77.4
+Sapienza University of Rome,,62.3,87.2,59.7,81.5
+The University of Georgia,,65,86.9,56.2,81.1
+Tongji University,,66,84.7,59.8,83.9
+Universidad de Chile,,79.4,76.2,71.4,62.8
+Universidade Federal do Rio de Janeiro,,73.2,81.4,59.7,74.4
+Albert-Ludwigs-Universitaet Freiburg,,62.7,89.3,53.8,80.6
+University of Vienna,,68.6,88.5,61.9,71.7
+Université catholique de Louvain (UCL),,63.9,91.2,69.4,74.4
+Université du Québec,,63.9,88,54.5,80
+Université Grenoble-Alpes,,64.2,91.9,41.6,82
+Université Pierre et Marie Curie (UPMC),,62.8,90.4,61.5,77.4
+Universiti Kebangsaan Malaysia (UKM),,78.9,76.8,66,63.8
+University of Basel,,62.3,89,69.1,76.2
+University of Bern,,62.2,91.4,62.7,79
+University of Calgary,,62.8,87.5,64.1,80
+"University of California, Santa Cruz",,61.6,94.7,54.9,76.8
+University of Canterbury,,64.1,85.1,73,73.1
+University of Delaware,,69.3,90,25.4,78.5
+University of Gothenburg,,63.9,90.5,57.4,79.5
+University of Lausanne,,69.7,87.4,61.6,72.4
+University of Liverpool,,68.2,89.7,55.4,75
+"The University of Newcastle, Australia (UON)",,70.9,83,61.4,75.6
+University of Pennsylvania,,69.4,85.3,75.9,71.7
+University of Porto,,66.7,87.1,50.4,83
+University of Saskatchewan,,61.8,87.6,54.4,82
+University of Southern California,,64.8,88.5,61.1,73.1
+University of Tasmania,,66.8,87,64.1,77.4
+University of Tsukuba,,69.2,84.7,57.7,71
+University of Virginia,,63.4,90.2,56.2,76.2
+University of York,,64.2,93.8,56,79.5
+Washington State University,,66.6,89.5,44.6,79
